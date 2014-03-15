@@ -602,14 +602,14 @@ footer[role="contentinfo"] .container > *:first-child {
 .layout-sidebar .sidebar {
   display: inline;
   float: left;
-  width: 20.921%;
+  width: 30.921%;
   margin-right: 3.263%;
   margin-left: 3.263%;
 }
 .layout-sidebar div[role="main"] {
   display: inline;
   float: left;
-  width: 69.29%;
+  width: 59.29%;
   margin-right: 3.263%;
   display: inline;
   float: right;
