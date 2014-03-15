@@ -1,0 +1,4 @@
+baseurl: /drupal-standard
+markdown: rdiscount
+pygments: true
+permalink: /:categories/:title
